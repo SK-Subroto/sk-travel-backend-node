@@ -1,0 +1,35 @@
+[
+    {
+        "title": "Spitzberg",
+        "location": "Spitzberg, Germany",
+        "startDate": "12 Jan",
+        "endDate": "18 Jan",
+        "duration": "5",
+        "price": "1200",
+        "img": "https://preview.colorlib.com/theme/tralive/assets/img/gallery/xservices3.jpg.pagespeed.ic.5mY-dBjrRa.webp",
+        "description": "Spitsbergen is the largest and only permanently populated island of the Svalbard archipelago in northern Norway"
+
+    },
+    {
+        "title": "Mega",
+        "location": "Mega, Turkey",
+        "startDate": "13 Jan",
+        "endDate": "17 Jan",
+        "duration": "3",
+        "price": "1200",
+        "img": "https://preview.colorlib.com/theme/tralive/assets/img/gallery/xservices1.jpg.pagespeed.ic.Aq-IpiEePi.webp",
+        "description": "Spitsbergen is the largest and only permanently populated island of the Svalbard archipelago in northern Norway"
+
+    },
+    {
+        "title": "Alavus",
+        "location": "Alavus, Finland",
+        "startDate": "12 Jan",
+        "endDate": "18 Jan",
+        "duration": "5",
+        "price": "1200",
+        "img": "https://preview.colorlib.com/theme/tralive/assets/img/gallery/xservices1.jpg.pagespeed.ic.Aq-IpiEePi.webp",
+        "description": "Spitsbergen is the largest and only permanently populated island of the Svalbard archipelago in northern Norway"
+
+    }
+]
